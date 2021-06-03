@@ -1,0 +1,28 @@
+.vesit-img{
+    zoom: 1;
+    background-size: cover;
+    margin: auto;
+    opacity: 0.5;
+    height: 93vh;
+    width: 100vw;
+    background-image:url('../images/vesit.png');  
+    
+    position: absolute;
+}
+
+body{
+    margin : 0 0 0 0;
+    
+}
+
+.floating-container{
+    opacity: 1;
+    margin-top: 10%;
+}
+.main{
+    padding-top: -24px;
+}
+.floating-container-reg {
+    opacity: 1;
+    margin-top: 5%;
+}
